@@ -1,5 +1,5 @@
 let updateTime = function () {
-  var monthNames = [
+  let monthNames = [
     "January",
     "February",
     "March",
@@ -13,7 +13,7 @@ let updateTime = function () {
     "November",
     "December",
   ];
-  var dayNames = [
+  let dayNames = [
     "Sunday",
     "Monday",
     "Tuesday",
